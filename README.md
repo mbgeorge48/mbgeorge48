@@ -1,6 +1,6 @@
-# :wave: Hello there! I'm Matt
+# :wave: Hello there!
 
-## A software engineer in Cardiff :wales:
+## I'm Matt, a software engineer in Cardiff :wales:
 
 ### :hammer_and_wrench: Favourite Tech
 
