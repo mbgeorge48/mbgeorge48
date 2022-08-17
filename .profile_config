@@ -23,3 +23,5 @@ then
   }
   set_versions
 fi
+
+PROMPT='%B%F{cyan}%n%f => %F{magenta}%1~%f%b ✏️ :'
