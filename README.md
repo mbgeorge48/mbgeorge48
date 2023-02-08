@@ -10,7 +10,6 @@
 * Python
 * Django
 * Debian
-* PSQL
 
 <!--
 <table>
@@ -24,7 +23,6 @@
 ### :computer: Currently working on
 
 * [Terraria Class Guide :rabbit2:](https://github.com/mbgeorge48/terraria_classes)
-* [Terraria Game Wiki Scraper :rabbit2:](https://github.com/mbgeorge48/terraria_game_wiki_scraper)
 
 ### :dart: Hobbies
 
@@ -44,12 +42,15 @@
 
 ### :hatching_chick: I want to learn more about
 
+* Go
 * Docker
 * IoT
 
 ___
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/mbgeorge48/)
+
+Check out my [dotfiles](https://github.com/mbgeorge48/dotfiles) if you want to copy any of my settings
 
 <!-- Get images for the tech -->
 <!-- Move the bash profile stuff into here -->
