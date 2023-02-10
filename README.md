@@ -2,7 +2,7 @@
 
 <h2 align="center">I'm Matt, a software engineer in Cardiff :wales:</h2>
 
-### :hammer_and_wrench: Favourite Tech
+### :hammer_and_wrench: Current Stack
 
 * React
 * React Native
