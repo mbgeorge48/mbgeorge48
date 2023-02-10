@@ -1,6 +1,6 @@
-# :wave: Hello there!
+<h1 align="center">:wave: Hello there!</h1>
 
-## I'm Matt, a software engineer in Cardiff :wales:
+<h2 align="center">I'm Matt, a software engineer in Cardiff :wales:</h2>
 
 ### :hammer_and_wrench: Favourite Tech
 
@@ -9,7 +9,6 @@
 * TypeScript
 * Python
 * Django
-* Debian
 
 <!--
 <table>
