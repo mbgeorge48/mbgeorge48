@@ -1,4 +1,8 @@
-<h1 align="center">:wave: Hello there!</h1>
+<h1 align="center">
+  <img src="MG.svg" width="50px" height="50px" alt="mg" align="left" />
+  :wave: Hello there!
+  <img src="MG.svg" width="50px" height="50px" alt="mg" align="right" />
+</h1>
 
 <h2 align="center">I'm Matt, a software engineer in Cardiff :wales:</h2>
 
@@ -47,13 +51,8 @@
 
 ___
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/mbgeorge48/)
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/mbgeorge48/)
+* Check out my [dotfiles](https://github.com/mbgeorge48/dotfiles) if you want to copy any of my settings
 
-Check out my [dotfiles](https://github.com/mbgeorge48/dotfiles) if you want to copy any of my settings
-
-<!-- Get images for the tech -->
-<!-- Move the bash profile stuff into here -->
-<!-- Save vscode file in here -->
-<!-- https://simpleicons.org/ -->
-<!-- Get github to build my projects -->
-
+<img src="MG.svg" width="50px" height="50px" alt="mg" align="left" />
+<img src="MG.svg" width="50px" height="50px" alt="mg" align="right" />
