@@ -4,7 +4,7 @@
   <img src="MG.svg" width="50px" height="50px" alt="mg" align="right" />
 </h1>
 
-<h2 align="center">I'm Matt, a software engineer in Cardiff :wales:</h2>
+<h2 align="center">I'm Matt, a software engineer in Wales :wales:</h2>
 
 ### :hammer_and_wrench: Current Stack
 
@@ -51,7 +51,6 @@
 
 ___
 
-* Connect with me on [LinkedIn](https://www.linkedin.com/in/mbgeorge48/)
 * Check out my [dotfiles](https://github.com/mbgeorge48/dotfiles) if you want to copy any of my settings
 
 <img src="MG.svg" width="50px" height="50px" alt="mg" align="left" />
