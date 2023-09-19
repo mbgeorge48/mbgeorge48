@@ -6,52 +6,46 @@
 
 <h2 align="center">I'm Matt, a software engineer in Wales :wales:</h2>
 
-### :hammer_and_wrench: Current Stack
+### :hammer_and_wrench: What I do
 
-* React
-* React Native
-* TypeScript
-* Python
-* Django
+- JavaScipt/TypeScript
+  - Mostly React and React Native
+- Python
+  - Django
+  - Scripting
+- Bash
+  - Scripting
 
-<!--
-<table>
-<tr>
-<td>a</td>
-<td>b</td>
-</tr>
-</table>
--->
+### :juggling_person: Current side projects
 
-### :computer: Currently working on
+- [Cooking Countdown :timer_clock:](https://github.com/mbgeorge48/cooking_countdown)
+- [Terraria Class Guide :rabbit2:](https://github.com/mbgeorge48/terraria_classes)
+- [Messenger Interactionator](https://github.com/mbgeorge48/messenger_interactionator)
 
-* [Terraria Class Guide :rabbit2:](https://github.com/mbgeorge48/terraria_classes)
+### :man_dancing: What keeps me out of trouble
 
-### :dart: Hobbies
+- Fighting weeds and growing vegitables at the allotment
+- ~~Playing with~~ Building Lego
+- Hanging out with friends
+- Watching TV shows
+- Playing video games
+- Tinkering with side projects I'm working on
 
-* Watching TV shows
-* Building Lego
-* Hanging out with friends
-* Working on the allotment
-* Playing video games
+### :rowing_man: How I'm broadening my horizons
 
-### :apple: Learning
+- Learning more core JavaScript
+- Getting more to grips with Django
+- How to grow all sorts of different veggies
+- Taking better pictures with a camera
 
-* More React and Typescript everyday
-* Python, more specifically Django
-* Photography
-* Python - Flask
-* How to grow vegetables!
+### :sunrise_over_mountains: What's over the horizon
 
-### :hatching_chick: I want to learn more about
-
-* Go
-* Docker
-* IoT
-
+- Want to start dabbling with Go, I've heard a lot of good things about it
+- I know a bit about Docker but I haven't put a lot of it into practice
+- Smart home stuff!
 ___
 
-* Check out my [dotfiles](https://github.com/mbgeorge48/dotfiles) if you want to copy any of my settings
+- I'm often tweaking my config files in my [dotfiles](https://github.com/mbgeorge48/dotfiles) repo, check em out if you want to know more
 
 <img src="MG.svg" width="50px" height="50px" alt="mg" align="left" />
 <img src="MG.svg" width="50px" height="50px" alt="mg" align="right" />
