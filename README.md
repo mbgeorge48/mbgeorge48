@@ -19,6 +19,7 @@
 ### :juggling_person: Current side projects
 
 - [Cooking Countdown :timer_clock:](https://github.com/mbgeorge48/cooking_countdown)
+  - Now live at => https://cookingcountdown.com
 - [Terraria Class Guide :rabbit2:](https://github.com/mbgeorge48/terraria_classes)
 - [Messenger Interactionator](https://github.com/mbgeorge48/messenger_interactionator)
 
