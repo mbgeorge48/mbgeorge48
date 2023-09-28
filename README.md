@@ -19,13 +19,13 @@
 ### :juggling_person: Current side projects
 
 - [Cooking Countdown :timer_clock:](https://github.com/mbgeorge48/cooking_countdown)
-  - Now live at => https://cookingcountdown.com
+  - Now live at :point_right: https://cookingcountdown.com
 - [Terraria Class Guide :rabbit2:](https://github.com/mbgeorge48/terraria_classes)
 - [Messenger Interactionator](https://github.com/mbgeorge48/messenger_interactionator)
 
 ### :man_dancing: What keeps me out of trouble
 
-- Fighting weeds and growing vegitables at the allotment
+- Fighting weeds and growing vegetables at the allotment
 - ~~Playing with~~ Building Lego
 - Hanging out with friends
 - Watching TV shows
