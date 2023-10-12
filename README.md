@@ -15,6 +15,7 @@
   - Scripting
 - Bash
   - Scripting
+    - Does anyone not like bashing a shell around in vim?!
 
 ### :juggling_person: Current side projects
 
