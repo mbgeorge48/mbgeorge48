@@ -17,7 +17,7 @@
   - Scripting
     - Does anyone not like bashing a shell around in vim?!
 
-### :juggling_person: Current side projects
+### :juggling_person: Current projects
 
 - [Cooking Countdown :timer_clock:](https://github.com/mbgeorge48/cooking_countdown)
    - :point_right: https://cookingcountdown.com
