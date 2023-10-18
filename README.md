@@ -31,6 +31,7 @@
 - Hanging out with friends
 - Watching TV shows
 - Playing video games
+- dysgu Cymraeg! :wales:
 - Tinkering with side projects I'm working on
 
 ### :rowing_man: How I'm broadening my horizons
