@@ -11,8 +11,8 @@
 - JavaScipt/TypeScript
   - Mostly React and React Native
 - Python
-  - Django
   - Scripting
+  - Django
 - Bash
   - Scripting
     - Does anyone not like bashing a shell around in vim?!
@@ -31,13 +31,13 @@
 - Hanging out with friends
 - Watching TV shows
 - Playing video games
-- dysgu Cymraeg! :wales:
+- Dysgu Cymraeg! :wales:
 - Tinkering with side projects I'm working on
 
 ### :rowing_man: How I'm broadening my horizons
 
-- Learning more core JavaScript
-- Getting more to grips with Django
+- Learning more core JavaScript rather than relying on frameworks like React
+- Honing my Django skillz
 - How to grow all sorts of different veggies
 - Taking better pictures with a camera
 
