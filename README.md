@@ -9,13 +9,13 @@
 ### :hammer_and_wrench: What I do
 
 - JavaScipt/TypeScript
-  - Mostly React and React Native
+  - Mostly React but have worked with React Native a few times
 - Python
   - Scripting
   - Django
 - Bash
   - Scripting
-    - Does anyone not like bashing a shell around in vim?!
+    - Does anyone not like bashing a shellscript around in vim?!
 
 ### :juggling_person: Current projects
 
